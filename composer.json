@@ -1,7 +1,8 @@
 {
     "name": "arifulhb/algorithms",
-    "description": "Basic Searching and Sorting Algorithms",
+    "description": "Multi-dimensional Array & Object Sorting in PHP",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ariful Haque",
