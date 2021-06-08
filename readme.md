@@ -1,6 +1,12 @@
 # Multi-dimensional Array & Object Sorting in PHP
 Sort a multidimensional `array` or `object` by `String` or `integer` or both types. 
 
+## Installation
+Install the package on your php application.
+```
+composer require arifulhb/php-algorithms
+```
+
 ## Sort by Array
 For example, if you have an array, and you want to sort by name or by price or both,
 you can use this package to sort.
